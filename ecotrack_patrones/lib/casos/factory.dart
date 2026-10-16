@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+
 class Aviso {
   Aviso(this.texto, {required this.cumplida});
 
